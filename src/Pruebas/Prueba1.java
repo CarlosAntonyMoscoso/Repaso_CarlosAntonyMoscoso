@@ -16,7 +16,7 @@ public class Prueba1 {
 		
 		
 		System.out.println(total);
-		//haz la resta aqui
+		System.out.println("La resta de "+ a +" - " + b +" = "+ (a-b));
 
 	}
 
